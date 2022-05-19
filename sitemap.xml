@@ -1,0 +1,27 @@
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://wiktorkozlowski.github.io/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1</priority>
+</url>
+<url>
+  <loc>https://wiktorkozlowski.github.io/pages/pl.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1</priority>
+</url>
+<url>
+  <loc>https://www.google.com/books/edition/Najdłuższa_droga/VzKFAAAAIAAJ?hl=en&gbpv=0&kptab=overview</loc>
+  <changefreq>daily</changefreq>
+  <priority>1</priority>
+</url>
+<url>
+  <loc>https://www.google.com/books/edition/W_krainie_Sumerów/AjMyYAAACAAJ?hl=en&sa=X&ved=2ahUKEwjwv_7rjOz0AhWWk4kEHYyWBiQQiqUDegQIAxAC</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://www.ibl.poznan.pl/dostep/index.php?s=d_biezacy&f=zapisy_szczeg&p_zapis=701558</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.1</priority>
+</url>
+</urlset>
